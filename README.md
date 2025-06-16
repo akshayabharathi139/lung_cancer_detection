@@ -82,4 +82,4 @@ Download dataset to train from kaggle : https://www.kaggle.com/datasets/jillanis
 
 👩‍💻 Author
 
-Anughna Kandimalla
+Akshaya bharathi
